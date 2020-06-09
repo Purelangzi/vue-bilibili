@@ -1,0 +1,107 @@
+{
+  "id": "1886602",
+  "name": "bilibili",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "729522",
+      "name": "返回顶部 (4)",
+      "font_class": "fanhuidingbu4",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "887909",
+      "name": "关注 (1)",
+      "font_class": "guanzhu1",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "4685772",
+      "name": "禁止",
+      "font_class": "Group-",
+      "unicode": "e6aa",
+      "unicode_decimal": 59050
+    },
+    {
+      "icon_id": "579286",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "1199104",
+      "name": "file-text",
+      "font_class": "file-text",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "2041685",
+      "name": "CN_bilibili B",
+      "font_class": "CN_bilibiliB",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "2154214",
+      "name": "UP主_32",
+      "font_class": "UPzhu",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "2306764",
+      "name": "BILIBILI_LOGO",
+      "font_class": "bilibili",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "2674474",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "7471008",
+      "name": "Star",
+      "font_class": "Star",
+      "unicode": "e6c3",
+      "unicode_decimal": 59075
+    },
+    {
+      "icon_id": "7939955",
+      "name": "分享",
+      "font_class": "arrow-",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "9121572",
+      "name": "点赞",
+      "font_class": "dianzan1",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "9646608",
+      "name": "下载2",
+      "font_class": "xiazai",
+      "unicode": "e8ae",
+      "unicode_decimal": 59566
+    },
+    {
+      "icon_id": "14342009",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e7c4",
+      "unicode_decimal": 59332
+    }
+  ]
+}
